@@ -20,7 +20,7 @@ async-lru==2.0.4
 gradio==5.0.0
 
 pyyaml==6.0.1
-numpy==1.22.0 # Updated to resolve conflicts
+numpy==1.23 # Updated to resolve conflicts
 opencv-python==4.8.1.78 # Downgraded to be compatible with numpy
 scipy==1.10.1
 imageio==2.31.1
